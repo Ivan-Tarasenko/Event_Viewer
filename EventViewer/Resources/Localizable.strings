@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  EventViewer
+
+  Created by Иван Тарасенко on 19.04.2023.
+  
+*/
+// Title section
+"idEvent" = "ID Event";
+"dateEvent" = "Date Event";
+"parameterEvent" = "Parameters Event";
+
+// Title parameter
+"key" = "Key";
+"string" = "String";
+"int" = "Integer";
+"bool" = "Boolean";
+
+// Error title
+"noParameter" = "There are no parameters";
+"noEvent" = "There are no events";
+
+// Headers for the Add event screen
+"enterID" = "Enter the event ID";
+"enterDate" = "Enter the date and time of the event";
+"enterKey" = "Enter the key";
+"EnterString" = "Enter the title";
+"EnterInt" = "Enter integer";
+"EnterBool" = "Enter Boolean";
+
+// Title alert add event
+"titleID" = "Enter ID";
+"titleDate" = "Enter Date";
+
+// Title alert clear list
+"titleClear" = "Attention";
+"massageClear" = "You're going to completely clear the event list!";
+
